@@ -1,0 +1,15 @@
+81c74a3fca6007393c39222914cd98e0 *DESCRIPTION
+4484ae88e7b4f8da3138a388b0ec5225 *NAMESPACE
+f46ca1d5bffa695c003684499b67f758 *R/Sunclarco.R
+69b0595eb4326fefab28b81f349b1b03 *R/comparing.R
+c918efb3c29aa989cb9c6cc7306f0f5e *R/estimateparameters.R
+bede8e56eb520b39745cec4b0ddfac3a *R/helpers.R
+7572a8df264d373a96652f9bd62a54e9 *R/jackknife.R
+8eda832bc290ac3c767c1daf545f1eb4 *R/logllh.R
+a0810069fb76c5837c69e898c99ed117 *R/models.R
+3a9dfeb7f025b2a38be8528626e063ae *R/summaryplot.R
+1f342517211c3ca422f12976fd33dba2 *README.md
+6a3c0bbe90a22229116088904daabaf3 *data/insem.RData
+5fac2212015d6722c260cebeb4a5188f *man/Sunclarco.Rd
+e392680e34a3daca4b6392616b25c1a1 *man/SunclarcoModel.Rd
+1b914a03f3d3e17babe058a459b0dc33 *man/insem.Rd
